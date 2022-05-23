@@ -1,0 +1,42 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "BrandeX StartUp",
+            "description": "Using Artificial Intelligence In Advertising",
+            "category": "AI"
+        },
+        {
+            "id": 2,
+            "title": "Forex Trading",
+            "description": "Intro and basics to forex trading",
+            "category": "forex"
+        },
+        {
+            "id": 3,
+            "title": "Neural Networks",
+            "description": "Using Neural Networks in business application",
+            "category": "AI"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "price": 700,
+            "description": "Description 1"
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "price": 1200,
+            "description": "Description 2"
+        },
+        {
+            "id": 3,
+            "title": "Product 3",
+            "price": 2800,
+            "description": "Description 3"
+        }
+    ]
+}
